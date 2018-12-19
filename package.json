@@ -1,6 +1,7 @@
 {
   "name": "react-native-shadow-stack-view",
   "version": "0.1.2",
+  "description": "Multiple layered shadows for perfectionists",
   "main": "index.js",
   "keywords": [
     "react-native",
@@ -13,7 +14,11 @@
     "layered",
     "dropshadow"
   ],
-  "author": "everdrone <giorgiotropiano@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/everdrone/react-native-shadow-stack-view"
+  },
+  "author": "everdrone",
   "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.41.2"
