@@ -1,7 +1,21 @@
 {
   "name": "react-native-shadow-stack-view",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "index.js",
+  "keywords": [
+    "react-native",
+    "shadows",
+    "multiple",
+    "shadow",
+    "stack",
+    "view",
+    "composite",
+    "layered",
+    "dropshadow"
+  ],
   "author": "everdrone <giorgiotropiano@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  }
 }
