@@ -1,6 +1,6 @@
 {
   "name": "react-native-shadow-stack-view",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Multiple layered shadows for perfectionists",
   "main": "index.js",
   "keywords": [
