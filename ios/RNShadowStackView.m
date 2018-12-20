@@ -8,7 +8,7 @@
 #import "React/RCTViewManager.h"
 #import "UIKit/UIKit.h"
 #import "Foundation/Foundation.h"
-#import "ShadowStack.h"
+#import "RNShadowStackView.h"
 
 @interface RCT_EXTERN_MODULE(ShadowStackViewManager, RCTViewManager)
 

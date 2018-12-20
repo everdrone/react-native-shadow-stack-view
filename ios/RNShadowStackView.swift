@@ -1,5 +1,5 @@
 //
-//  ShadowStack.swift
+//  RNShadowStackView.swift
 //  shadowstack
 //
 //  Created by Giorgio on 29/10/2018.
@@ -46,7 +46,7 @@ class ShadowStackView : UIView {
         containerView.frame = rect
         containerView.backgroundColor = bckColor
         
-        shadowContainerView.frame = frame
+        shadowContainerView.frame = rect
         shadows.forEach { s in
             let nv = UIView(frame: rect)
             nv.layer.shadowPath = UIBezierPath(rect: rect).cgPath
