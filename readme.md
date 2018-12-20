@@ -44,7 +44,7 @@ react-native link react-native-shadow-stack-view
 ## Props
 
 - `shadows`
-  `array`: A list of [Shadow Props](https://facebook.github.io/react-native/docs/shadow-props) object
+  `array`: A list of [Shadow Props](https://facebook.github.io/react-native/docs/shadow-props) objects
 
 ## Caveats
 
